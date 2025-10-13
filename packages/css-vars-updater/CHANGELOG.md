@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.4](https://github.com/patternfly/pf-codemods/compare/@patternfly/css-vars-updater@1.1.3...@patternfly/css-vars-updater@1.1.4) (2025-10-13)
+
+**Note:** Version bump only for package @patternfly/css-vars-updater
+
+
+
+
+
 ## [1.1.3](https://github.com/patternfly/pf-codemods/compare/@patternfly/css-vars-updater@1.1.2...@patternfly/css-vars-updater@1.1.3) (2025-02-25)
 
 
